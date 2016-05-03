@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./rmischegeschic02livyuoft_0323.png"; bbox 0 0 1716 3034; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 355 765 1259 838">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 355 765 1259 838">
+     <span class='ocr_line' id='line_1_1' title="bbox 355 765 1259 838; baseline -0.015 -2"><span class='ocrx_word' id='word_1_1' title='bbox 355 769 867 838; x_wconf 84' lang='lat' dir='ltr'><strong>ZEHNTES</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 941 765 1259 826; x_wconf 89' lang='lat' dir='ltr'>BUCH.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 76 984 1546 1050">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 76 984 1546 1050">
+     <span class='ocr_line' id='line_1_2' title="bbox 76 984 1546 1050; baseline -0.013 0"><span class='ocrx_word' id='word_1_3' title='bbox 76 1008 273 1050; x_wconf 76' lang='lat' dir='ltr'><strong>volu</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 356 1004 683 1047; x_wconf 67' lang='lat' dir='ltr'><strong>JAHRE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 765 999 1023 1039; x_wconf 73' lang='lat' dir='ltr'><strong>noMs</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1106 984 1546 1036; x_wconf 74' lang='lat'>450—459.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
